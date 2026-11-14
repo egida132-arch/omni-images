@@ -8,6 +8,7 @@ This repository holds pictures only; the extension itself is free to use and is 
 
 | File | What it shows |
 |---|---|
+| `welcome.png` | The welcome screen at the first start: the team, three steps, «Models and keys» (links to the official key pages), who leads |
 | `overview.png` | VS Code with the OMNI «Модели» window and the Claude Code chat (the lead) side by side |
 | `helper-work.png` | A helper at work: its live steps (web searches in its own engine, pages it opens) and the files it changed, with «Compare» and «Undo» |
 | `tasks.png` | «Задачи»: what is running now, each task's stage, cost and buttons |
