@@ -15,6 +15,8 @@ This repository holds pictures only; the extension itself is free to use and is 
 | `gpt-subscription.png` | GPT through the ChatGPT subscription: the 5-hour and weekly limits, and its work log |
 | `resources.png` | «Ресурсы»: balances and subscription limits of every model (amounts hidden), GPU, memory, disk, CPU, today's web searches |
 | `programs.png` | Programs started by the models: memory, CPU, pause / stop, paused ones folded |
+| `settings.png` | The side panel of two models: GPT (models for review, meetings and leading; the ChatGPT limits) and GLM (how to pay: subscription first, then API; the meeting model) |
+| `window-settings.png` | The window with the side panel open next to a model's work |
 | `statistics.png` | «Статистика»: how each model does — accepted first time, findings, average time, spend |
 
 Image links for the extension page:
